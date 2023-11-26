@@ -1,0 +1,31 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.recipe_list {
+    text-align: center;
+}
+
+.title {
+    background-color: black;
+    color: aliceblue;
+}
+
+.list {
+    list-style: none;
+    display: inline-block;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.recipe {
+    background-color: grey;
+    text-align: center;
+}
+
+.recipe.macaroni {
+    background-color: black;
+}
