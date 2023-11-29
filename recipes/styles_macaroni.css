@@ -1,0 +1,28 @@
+* {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.recipe {
+    border: 2px solid black;
+    margin: 10px auto;
+    padding: 10px;
+    list-style-position:inside;
+}
+
+.recipe_title {
+    border: 1px solid black;
+    width: auto;
+}
+
+.recipe_photo {
+    border: 2px solid black;
+    padding: 1px;
+}
+
+.recipe_body {
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
